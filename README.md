@@ -3,6 +3,7 @@
  <div style="display: inline_block">
   <br>
    <img height="100em" src="https://64.media.tumblr.com/c70f12db419a8d1e239349f23c614e1f/103f38a87ae4dd43-72/s540x810/05821945f333e10df767a1f286d9bb1ea4fca747.gifv" align="right" style="max-width: 100%; display: inline-block;" >
+  
    -💻 Computer sciences 3/8 - UNIP
 <br><br>
 
@@ -10,7 +11,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<br>
+<br><br>
 </div>
   
   ##
