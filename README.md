@@ -1,5 +1,5 @@
 
-##  I'm Monique Mendes, and welcome to my github  
+##  I'm Monique Mendes, and welcome to my   
  <div style="display: inline_block">
   <br>
 
