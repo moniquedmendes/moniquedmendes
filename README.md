@@ -1,53 +1,46 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b81414&size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Monique+Mendes+👋)
 
-##  I'm Monique Mendes, and welcome to my github
- <div style="display: inline_block">
-  <br>
+Seja bem-vindo(a) ao meu GitHub!   
+Sou estudante de **Ciência da Computação (6/8 - UNIP)** 
 
+---
+
+### 💻 Tecnologias que utilizo
+<div style="display: inline_block"><br>
   
-   -💻 Computer sciences 6/8 - UNIP 
-<br><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg">
-  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="ArchLinux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/archlinux/archlinux-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-<br><br>
-</div>
-  
-  ##
-  
- <!-- <div style="display: inline_block">
-  <img height="250em" src="https://64.media.tumblr.com/c70f12db419a8d1e239349f23c614e1f/103f38a87ae4dd43-72/s540x810/05821945f333e10df767a1f286d9bb1ea4fca747.gifv">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="ArchLinux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
+  <img align="center" alt="Arduino" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+---
 
-<div>
-    <figure class="gif">
-            <img  align="center" src="https://64.media.tumblr.com/26ffd801046230c0609fbd641592cef7/tumblr_oldqzpWo2F1ulthnlo1_540.gif">
-            <img  src="https://64.media.tumblr.com/c70f12db419a8d1e239349f23c614e1f/103f38a87ae4dd43-72/s540x810/05821945f333e10df767a1f286d9bb1ea4fca747.gifv">
-      </figure>    
-</div>-->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/05/95/4c/05954c4e500fc3b1c555dc832c777b4d.gif" width="300" />
+</div>
 
+---
 
-
-
-<div align="center" style="max-width: 100%; display: inline_block;" >
+### 📊 Estatísticas
+<div align="center">
   <a href="https://github.com/moniquedmendes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moniquedmendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniquedmendes&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moniquedmendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=b81414"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniquedmendes&layout=compact&langs_count=8&theme=radical&title_color=b81414"/>
+  </a>
 </div>
 
- ## 
- 
+---
+
+### 📬 Onde me encontrar
 <div> 
-  <a href = "mailto:moniquedmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/monique-domingues-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href = "mailto:moniquedmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/monique-domingues-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 <!--
