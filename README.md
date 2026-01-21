@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b81414&size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Monique+Mendes+👋)
 
 Seja bem-vindo(a) ao meu GitHub!   
-Sou estudante de **Ciência da Computação (6/8 - UNIP)** 
+Sou estudante de **Ciência da Computação (7/8 - UNIP)** 
 
 ---
 
