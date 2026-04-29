@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./assets/header.gif" width="100%"/>
+  <img src="./assets/headerV2.gif" width="100%"/>
 </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b81414&size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Monique+Mendes+👋)
