@@ -1,6 +1,12 @@
 <!-- BANNER -->
 
+
+<div align="center">
+  <img src="./assets/header.gif" width="100%"/>
+</div>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b81414&size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Monique+Mendes+👋)
+
 <div align="center">
   
 ### Seja bem-vindo(a) ao meu GitHub! 👋
@@ -34,11 +40,7 @@
 
 <img align="right" src="./assets/seu-gif.gif" width="200" style="margin-left: 20px; border-radius: 10px;"/>
 
-Estudante de **Ciência da Computação (7/8 · UNIP)**, apaixonada por tecnologia e seus limites.
-
-Atualmente focada em **Machine Learning**, **Redes**, **Cyber Segurança** e **Hardware embarcado**.
-
-Gosto de entender como as coisas funcionam por baixo, desde a eletrônica até os algoritmos.
+Estudante de **Ciência da Computação (7/8 · UNIP)**, apaixonada por tecnologia e seus limites.Atualmente focada em **Machine Learning**, **Redes**, **Cyber Segurança** e **Hardware embarcado**. Gosto de entender como as coisas funcionam por baixo, desde a eletrônica até os algoritmos.
 
 <br clear="right"/>
 
