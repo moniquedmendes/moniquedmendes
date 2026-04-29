@@ -25,20 +25,22 @@
 
 <br/>
 
----
+
 
 <!-- BIO -->
 <img align="right" src="https://i.pinimg.com/originals/05/95/4c/05954c4e500fc3b1c555dc832c777b4d.gif" width="350"/>
 
 ### 👾 Sobre mim
 
+<img align="right" src="./assets/seu-gif.gif" width="200" style="margin-left: 20px; border-radius: 10px;"/>
+
 Estudante de **Ciência da Computação (7/8 · UNIP)**, apaixonada por tecnologia e seus limites.
 
 Atualmente focada em **Machine Learning**, **Redes**, **Cyber Segurança** e **Hardware embarcado**.
 
-Gosto de entender como as coisas funcionam por baixo desde a eletrônica até os algoritmos.
+Gosto de entender como as coisas funcionam por baixo, desde a eletrônica até os algoritmos.
 
-<br/><br/><br/>
+<br clear="right"/>
 
 ---
 
@@ -62,24 +64,12 @@ Gosto de entender como as coisas funcionam por baixo desde a eletrônica até os
 ---
 
 <!-- ÁREAS DE INTERESSE -->
-### 🧠 Áreas de interesse
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <b>🤖 Machine Learning</b><br/>
-      <sub>sklearn · numpy · pandas · redes neurais</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>🌐 Redes</b><br/>
-      <sub>TCP/IP · protocolos · infra · segurança</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>🔧 Hardware</b><br/>
-      <sub>embarcados · Arduino · eletrônica</sub>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img src="./assets/areas-interesse.svg" width="100%"/>
+</div>
+
 
 <br/>
 
