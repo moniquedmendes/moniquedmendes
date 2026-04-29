@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./assets/headerV2.gif" width="100%"/>
+  <img src="./assets/headerV3.gif" width="100%"/>
 </div>
 
 <div align="center">
@@ -101,8 +101,11 @@ Estudante de **Ciência da Computação (7/8 · UNIP)**, apaixonada por tecnolog
 
 <br/>
 
----
 
+<div align="center">
+  <img src="./assets/headerV2.gif" width="100%"/>
+</div>
+---
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer"/>
