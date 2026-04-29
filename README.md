@@ -24,7 +24,7 @@
 
 <!-- LINKS -->
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-PERFIL">
+  <a href="https://www.linkedin.com/in/monique-domingues-mendes/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:moniquedmendes@gmail.com">
