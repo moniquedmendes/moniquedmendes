@@ -38,7 +38,7 @@
 
 <img align="right" src="./assets/seu-gif.gif" width="200" style="margin-left: 20px; border-radius: 10px;"/>
 
-Estudante de **Ciência da Computação (7/8 · UNIP)**. Atualmente focada em **Machine Learning**, **Redes**, **Cyber Segurança** e **Hardware embarcado**. 
+Estudante de **Ciência da Computação (8/8)**. Atualmente focada em **Machine Learning**, **Redes**, **Cyber Segurança** e **Hardware embarcado**. 
 
 <br clear="right"/>
 
